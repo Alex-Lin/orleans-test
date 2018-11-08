@@ -1,0 +1,7 @@
+.vs/
+Common/bin/
+Common/obj/
+StreamClient/bin/
+StreamClient/obj/
+StreamServer/bin/
+StreamServer/obj/
